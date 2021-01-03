@@ -1,0 +1,26 @@
+[INSTALAÇÃO]
+
+1 - Adicionar permissoes nos arquivos: 
+abra um terminal e digite chmod -R 777 airset
+
+
+2 - Instalar as dependências:
+abra um terminal no diretório da pasta e rode o comando ./airset
+ele vai mostrar as dependências a instalar para rodar o programa.
+(essa etapa não é nescessaria no wifislax)
+
+3- Rodar novamente o ./airset e proceder com o ataque como no tutorial:
+https://www.youtube.com/watch?v=aUK5vDF9lGs&lc=z13wytpiauekg1tl523hgnwz2niovvqmf
+
+[AVISOS]
+
+O redirecionamento não funciona para páginas https
+Em algumas versões do wifislax não está derrubando a página fake (teste todas as opções de desautenticação do programa, provavelmente uma vai funcionar)
+
+--------------------------------------- ATENÇÃO ------------------------------------------------
+Essa ferramenta foi criada com o objetivo de testar a segurança de redes wi-fi, no vídeo testo a mesma em uma rede de minha propriedade é em ambiente controlado. não sou responsável por qualquer tipo de mal uso que você fizer dela.
+
+
+[LINKS]
+https://www.youtube.com/c/alefcarvalhobr
+

@@ -18,7 +18,7 @@ deb http://old.kali.org/kali moto main non-free contrib
 ### Clonando repositório do Airset
 
 ```sh
-git clone https://github.com/alefcarvalho/airset
+git clone https://github.com/AlanMartines/airset
 ```
 
 ### Ajustando permissionamento

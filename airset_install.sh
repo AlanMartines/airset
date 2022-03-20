@@ -30,5 +30,6 @@ sudo apt-get install strings -y
 sudo apt-get install fuser -y
 sudo apt-get install binutils -y
 echo ""
+sudo chmod -R 777 *
 sudo ./airset
 echo ""

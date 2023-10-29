@@ -30,10 +30,7 @@ sudo chmod -R 777 airset
 ### Satisfazendo dependências
 
 ```sh
-sudo apt-get install isc-dhcp-server -y
-sudo apt-get install hostapd -y
-sudo apt-get install lighttpd -y
-sudo apt-get install php-cgi -y
+sudo apt-get install -y isc-dhcp-server hostapd lighttpd php-cgi
 ```
 
 ### Hands on
